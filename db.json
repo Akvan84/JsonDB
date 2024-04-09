@@ -1,0 +1,88 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "home",
+      "link": "#",
+      "dropdown": []
+    },
+    {
+      "id": 2,
+      "name": "about",
+      "link": "#",
+      "dropdown": []
+    },
+    {
+      "id": 3,
+      "name": "gallery",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "Gallery-1",
+          "link": "#"
+        },
+        {
+          "id": 2,
+          "name": "Gallery-2",
+          "link": "#"
+        },
+        {
+          "id": 3,
+          "name": "Gallery-3",
+          "link": "#"
+        },
+        {
+          "id": 4,
+          "name": "Gallery-4",
+          "link": "#"
+        },
+        {
+          "id": 5,
+          "name": "Gallery-5",
+          "link": "#"
+        },
+        {
+          "id": 6,
+          "name": "Gallery-6",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "shop",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "product-1",
+          "link": "#"
+        },
+        {
+          "id": 2,
+          "name": "product-2",
+          "link": "#"
+        },
+        {
+          "id": 3,
+          "name": "product-3",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "contact",
+      "link": "#",
+      "dropdown": []
+    }
+  ],
+  "parallax": {
+    "id": 1,
+    "image": "https://wallpaperset.com/w/full/5/0/3/79751.jpg",
+    "title": "Hello-World!!!",
+    "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo magni eius id aspernatur ratione soluta blanditiis quia aut totam, animi voluptatem nostrum nulla at, adipisci deleniti non nesciunt pariatur eligendi? Accusamus cupiditate minima recusandae a officia! Illum dolorem labore quidem in nostrum. Incidunt assumenda rem quasi culpa iure commodi quod asperiores dolorum at reprehenderit animi officia, ratione debitis itaque dolor ipsum dolore error consequuntur distinctio, eos ad cupiditate voluptate saepe! Dolore iure tempora perspiciatis illum asperiores sed iusto in ullam dolor a? Vel cum in id impedit quam provident omnis? Illum odio cum itaque mollitia vitae deserunt qui veniam corporis.",
+    "fontsize": "14px"
+  }
+}
